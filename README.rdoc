@@ -4,6 +4,16 @@ Provides a Ruby library to the complete Bitcoin JSON-RPC API. Implements all met
 at {https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_Calls_list}[https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_Calls_list].
 Also supports customizing the host and port number to connect to.
 
+
+
+==
+= Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+==
+
+
 == Installation
 
 On Ruby 1.9, you can just install the gem and start using it. On 1.8, the 'json' gem is also required, so you'll need to install that first:
