@@ -90,9 +90,12 @@ that are made available.
 
 If you found this library useful and feel inclined to compensate me for my trouble, I'm certainly not going to turn you down!
 
-Bitcoin donations can be sent to:
 
-  1HawYer58J9Vy3iju1w7jsRVci5tzaxkwn
 
-Thanks!
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
 
